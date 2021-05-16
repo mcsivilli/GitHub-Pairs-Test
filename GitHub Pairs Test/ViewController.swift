@@ -8,6 +8,8 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    Text("Luna & Maddlyn are the best partners!")
 
     override func viewDidLoad() {
         super.viewDidLoad()
